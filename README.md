@@ -1,6 +1,6 @@
 # Cmpe255_final_project
 
-This is the repository for CMPE 255 Group project. 
+This is the repository for Data Mining Group project. 
 
 All files that we worked on are present in the [/code](/code). folder.
 
