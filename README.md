@@ -23,3 +23,9 @@ In order to anticipate the travel patterns for certain cities using the processe
 6. GradientBoostingRegressor
 
 DataSet Link - https://www.kaggle.com/datasets/benhamner/sf-bay-area-bike-share?datasetId=57&sortBy=voteCount
+
+# 3. System Design and Architecture
+
+ [](url)
+<img width="502" alt="Screenshot 2023-01-15 at 9 50 06 AM" src="https://user-images.githubusercontent.com/33912085/212558014-2b080abd-1aa5-4e28-955d-7aaf9123e3b7.png">
+
