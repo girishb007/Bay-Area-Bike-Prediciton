@@ -15,12 +15,8 @@ In order to anticipate the travel patterns for certain cities using the processe
 
 DataSet Link - https://www.kaggle.com/datasets/benhamner/sf-bay-area-bike-share?datasetId=57&sortBy=voteCount
 
-# 2.System Design and Architecture
 
- [](url)
-<img width="502" alt="Screenshot 2023-01-15 at 9 50 06 AM" src="https://user-images.githubusercontent.com/33912085/212558014-2b080abd-1aa5-4e28-955d-7aaf9123e3b7.png">
-
-# 3.Algorithms Selected to Train and Evaluate
+# 2.Algorithms Selected to Train and Evaluate
 
 1. RandomForestRegression 
 2. ExtraTreesRegression
@@ -29,7 +25,7 @@ DataSet Link - https://www.kaggle.com/datasets/benhamner/sf-bay-area-bike-share?
 5. LassoRegression
 6. GradientBoostingRegressor
 
-# 4.Running and Comapring all Algorithms
+# 3.Running and Comapring all Algorithms
 
 <img width="962" alt="Screenshot 2023-01-15 at 9 54 44 AM" src="https://user-images.githubusercontent.com/33912085/212558379-3bfef198-721b-4172-be70-07f931f23c58.png">
 
