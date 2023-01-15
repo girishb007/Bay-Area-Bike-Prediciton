@@ -13,6 +13,8 @@ The major objectives of our project were the regression and projections of bike 
 
 In order to anticipate the travel patterns for certain cities using the processed data, we planned to examine the dataset, manipulate and extract the data, pre-process the dataset, and then use regression algorithms and approaches.
 
+DataSet Link - https://www.kaggle.com/datasets/benhamner/sf-bay-area-bike-share?datasetId=57&sortBy=voteCount
+
 # 2.System Design and Architecture
 
  [](url)
@@ -27,6 +29,12 @@ In order to anticipate the travel patterns for certain cities using the processe
 5. LassoRegression
 6. GradientBoostingRegressor
 
-DataSet Link - https://www.kaggle.com/datasets/benhamner/sf-bay-area-bike-share?datasetId=57&sortBy=voteCount
+# 4.Running and Comapring all Algorithms
+
+<img width="962" alt="Screenshot 2023-01-15 at 9 54 44 AM" src="https://user-images.githubusercontent.com/33912085/212558379-3bfef198-721b-4172-be70-07f931f23c58.png">
+
+
+
+
 
 
